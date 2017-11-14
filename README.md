@@ -1,3 +1,5 @@
+<p align="right">:top: click on Watch button...</p>
+
 # Welcome to the Polymer Job Board
 
 > To add a job, click the file `README.md` and then the Edit button at the top right.  
